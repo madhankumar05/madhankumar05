@@ -1,7 +1,7 @@
-# Hi there 👋 It's me, Madhankumar!
+# Hi there 👋 I am, Madhankumar S!
 
 👨‍💻 **About Me**  
-I'm a **Backend Developer** with experience in designing and developing scalable software solutions. Skilled in back-end technologies, API development, and database management, with a strong foundation in frameworks like Spring Boot and Django. Having basic knowledge in data analysis and artificial intelligence, committed to delivering efficient and impactful software applications while embracing continuous learning.
+I’m Madhankumar S, as a motivated and detail-oriented computer science student with a strong foundation in java programming. Eager to apply my skills in software development, problem-solving, and teamwork in a dynamic and challenging work environment.Seeking an entry-level position where I can leverage my academic knowledge, technical expertise, and enthusiasm for continuous learning to contribute to innovative projects, enhance my skills, and grow as a valuable asset to the organization.
 
 🌐 **Professional Overview**  
 Backend Developer with experience in designing and developing scalable software solutions. Skilled in back-end technologies, API development, and database management, with a strong foundation in frameworks like Spring Boot and Django. Proficient in generative AI (genAI) and large language models (LLMs). Committed to delivering efficient and impactful software applications while embracing continuous learning.
@@ -9,6 +9,7 @@ Backend Developer with experience in designing and developing scalable software 
 ### Skills
 - **Programming Languages:** Proficient in Java.
 - **Development Tools:** Git, GitHub (version control and collaboration).
+
 
 <p align="left">
   <a href="https://linkedin.com/in/naveenkumar045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/naveenkumar045" height="30" width="40" /></a>
