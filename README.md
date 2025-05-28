@@ -47,10 +47,6 @@ I’m Madhankumar S, as a motivated and detail-oriented computer science student
       <br>Visual Studio Code
     </td>
     <td align="center" width="130">
-      <img src="https://img.icons8.com/color/50/000000/git.png" width="50" height="50"/>
-      <br>Git
-    </td>
-    <td align="center" width="130">
       <img src="https://w7.pngwing.com/pngs/702/907/png-transparent-intellij-idea-integrated-development-environment-computer-software-jetbrains-java-others-miscellaneous-angle-text.png" width="50" height="50"/>
       <br>IntelliJ IDEA
     </td>
