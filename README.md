@@ -4,8 +4,7 @@
 I’m Madhankumar S, as a motivated and detail-oriented computer science student with a strong foundation in java programming. Eager to apply my skills in software development, problem-solving, and teamwork in a dynamic and challenging work environment.Seeking an entry-level position where I can leverage my academic knowledge, technical expertise, and enthusiasm for continuous learning to contribute to innovative projects, enhance my skills, and grow as a valuable asset to the organization.
 
 ### Skills
-- **Programming Languages:** Proficient in Java.
-- **Development Tools:** Git, GitHub (version control and collaboration).
+- **Programming Languages:** Java.
 
 
 <p align="left">
