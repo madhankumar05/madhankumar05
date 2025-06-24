@@ -1,11 +1,9 @@
 # Hi there 👋 I am, Madhankumar S!
 
 👨‍💻 **About Me**  
-I’m Madhankumar S, as a motivated and detail-oriented computer science student with a strong foundation in java programming. Eager to apply my skills in software development, problem-solving, and teamwork in a dynamic and challenging work environment.Seeking an entry-level position where I can leverage my academic knowledge, technical expertise, and enthusiasm for continuous learning to contribute to innovative projects, enhance my skills, and grow as a valuable asset to the organization.
-
-### Skills
-- **Programming Languages:** Java.
-
+As a passionate and skilled Java developer, I am seeking a entry level position in a reputable organization where I can apply my
+expertise in Java programming, problem-solving, and software development to contribute to innovative projects and further
+enhance my professional growth.
 
 <p align="left">
   <a href="https://linkedin.com/in/madhankumar2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/madhankumar2005" height="30" width="40" /></a>
