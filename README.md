@@ -56,10 +56,11 @@ enhance my professional growth.
       <img src="https://w7.pngwing.com/pngs/702/907/png-transparent-intellij-idea-integrated-development-environment-computer-software-jetbrains-java-others-miscellaneous-angle-text.png" width="50" height="50"/>
       <br>IntelliJ IDEA
     </td>
-    <td align="center" width="130">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_Workbench_Logo.png" width="50" height="50"/>
-      <br>MySQL Workbench
-    </td>
+   <td align="center" width="130">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql-workbench/mysql-workbench.png" width="50" height="50"/>
+  <br>MySQL Workbench
+</td>
+
   </tr>
 </table>
 
