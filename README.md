@@ -56,8 +56,13 @@ enhance my professional growth.
       <img src="https://w7.pngwing.com/pngs/702/907/png-transparent-intellij-idea-integrated-development-environment-computer-software-jetbrains-java-others-miscellaneous-angle-text.png" width="50" height="50"/>
       <br>IntelliJ IDEA
     </td>
+    <td align="center" width="130">
+      <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_Workbench_logo.png" width="50" height="50"/>
+      <br>MySQL Workbench
+    </td>
   </tr>
 </table>
+
 
 ---
 
