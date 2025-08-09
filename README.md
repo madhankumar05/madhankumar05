@@ -57,11 +57,12 @@ enhance my professional growth.
       <br>IntelliJ IDEA
     </td>
     <td align="center" width="130">
-      <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_Workbench_logo.png" width="50" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_Workbench_Logo.png" width="50" height="50"/>
       <br>MySQL Workbench
     </td>
   </tr>
 </table>
+
 
 
 ---
